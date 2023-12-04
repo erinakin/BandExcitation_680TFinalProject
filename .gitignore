@@ -28,7 +28,8 @@ tags
 *.eggs/
 .installed.cfg
 *.egg-info
-
+*.h5
+*.mat
 # Unittest and coverage
 htmlcov/*
 .coverage
