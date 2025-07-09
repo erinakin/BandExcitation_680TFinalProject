@@ -22,7 +22,18 @@ The repository contains:
 - **Apply machine learning** to identify trends and features correlated with ferroelectric domain switching
 - **Present findings** through visualizations and a  whitepaper
 
-- @article{agar2020ferroelectric,
+## Repository Contents
+
+| File/Folder                      | Description |
+|----------------------------------|-------------|
+| `BandExcitation_MLl.ipynb`       | Main notebook with preprocessing, model training, and evaluation |
+| `BE_Static_Visualizations.ipynb` | Visualizations of raw and fitted data (voltage maps, spatial trends) |
+| `whitepaper.pdf` or `whitepaper.md` | Explanation of the experimental method, data processing pipeline, and results |
+| `requirements.txt`               | Python dependencies list |
+
+---
+
+@article{agar2020ferroelectric,
   title={Revealing the Ferroelectric Switching Character Using Deep Recurrent Neural Networks},
   author={Agar, J. C. et al.},
   journal={[Journal Name]},
